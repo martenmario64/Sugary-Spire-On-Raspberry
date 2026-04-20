@@ -41,7 +41,6 @@ wget https://raw.githubusercontent.com/martenmario64/Sugary-Spire-On-Raspberry/r
 unzip SugarySpire_ExhibitionNight_V1.3.2.zip -d ~/.martenapps/sugardemo/Game/
 unzip SugarySpire_ExhibitionNight_V1.3.2.zip -d ~/.martenapps/sugardemo45/Game/
 xdelta3 -n -d -s ~/.martenapps/sugardemo45/Game/data.win ~/.martenapps/sugardemo/1080p.xdelta ~/.martenapps/sugardemo45/data.win
-rm ~/.martenapps/sugardemo/Game/data.win
 rm ~/.martenapps/sugardemo45/Game/data.win
 mv ~/.martenapps/sugardemo45/data.win ~/.martenapps/sugardemo45/Game/
 mv ~/.martenapps/sugardemo/data.win ~/.martenapps/sugardemo/Game/
