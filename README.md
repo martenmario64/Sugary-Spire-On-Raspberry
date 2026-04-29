@@ -16,7 +16,7 @@ An Official Power Supply (Like The Ones From Canakit)
 
 (OPTIONAL) Pironman5 (Not Needed, But Recommended.)
 
-#How To Install:
+# How To Install:
 Get the SugarySpireSetup.sh File In Releases.
 
 What? Did You Think There Would Be More?
